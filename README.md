@@ -1,36 +1,44 @@
 # Sales Data Analysis Project
 
-This project focuses on the analysis of sales data using SQL and creation of an Interactive Dashboard in PowerBI to derive insights and make data-driven decisions.
+This project combines SQL data analysis and a Power BI dashboard to gain insights from sales data.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Analysis](#data-analysis)
-- [SQL Queries](#sql-queries)
+- [SQL Analysis](#sql-analysis)
+- [Power BI Dashboard](#power-bi-dashboard)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
-The SQL Sales Data Analysis Project demonstrates the process of analyzing sales data to gain valuable insights. By leveraging SQL queries, this project aims to provide actionable recommendations based on the analysis.
+The Sales Data Analysis Project combines SQL data analysis and a Power BI dashboard to provide comprehensive insights into sales performance. This project aims to assist businesses in making data-driven decisions.
 
 ## Data Analysis
 
-Sales data analysis is crucial for understanding business performance and identifying growth opportunities. In this project, we dive into various aspects, including:
+Effective data analysis is key to understanding business performance. In this project, we explore various aspects of sales data, including:
 - Sales trends
 - Product performance
 - Customer behavior
-- Advanced calculations
+- Advanced calculations using SQL
 
-## SQL Queries
+## SQL Analysis
 
-SQL queries are the backbone of this analysis. We use SQL to extract, transform, and analyze the sales dataset. Key aspects of the SQL analysis include:
-- Data extraction
+SQL queries are employed to extract and analyze data. Key elements of the SQL analysis include:
+- Data extraction and transformation
 - Aggregation and grouping
 - Joins and subqueries
-- Common Table Expressions (CTE)
 - Calculations and functions
 
+## Power BI Dashboard
+
+A Power BI dashboard titled "Sales Insights Dashboard" visualizes key findings from the SQL analysis. The dashboard includes:
+- Interactive data visualizations
+- Drill-through capabilities
+- Advanced filtering for dynamic exploration
+- Supporting data-driven decision-making
 
 ## Getting Started
 
@@ -39,6 +47,7 @@ To explore this Sales Data Analysis Project, follow these steps:
 2. Set up your SQL environment (e.g., MySQL, PostgreSQL).
 3. Import the provided sales dataset.
 4. Execute the SQL queries to perform the analysis.
+5. Open the Power BI file to explore the dashboard.
 
 ## Contributing
 
@@ -48,4 +57,7 @@ Contributions, suggestions, and improvements are welcome! If you have any ideas 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Screenshots
 
+![Category Page](https://imgur.com/a/V6EWYVy)
+![Sub-Category Page](https://imgur.com/a/hvSNqEI)
