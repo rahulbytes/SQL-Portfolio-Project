@@ -1,4 +1,3 @@
-
 # Sales Data Analysis Project
 
 This project focuses on the analysis of sales data using SQL and creation of an Interactive Dashboard in PowerBI to derive insights and make data-driven decisions.
