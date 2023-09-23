@@ -1,12 +1,13 @@
 
-# SQL Sales Data Analysis Project
+# Sales Data Analysis Project
 
-This project focuses on the analysis of sales data using SQL to derive insights and make data-driven decisions.
+This project focuses on the analysis of sales data using SQL and creation of an Interactive Dashboard in PowerBI to derive insights and make data-driven decisions.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Analysis](#data-analysis)
 - [SQL Queries](#sql-queries)
+- [Power BI Dashboard ScreenShot](#Power-BI-Dashboard-ScreenShot)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,9 +33,16 @@ SQL queries are the backbone of this analysis. We use SQL to extract, transform,
 - Common Table Expressions (CTE)
 - Calculations and functions
 
+## Power BI Dashboard ScreenShot
+
+![Category page of the Dashboard](https://github.com/rahulbytes/SQL-Portfolio-Project/blob/a32bbf65de5957468a667bd794b688fa4c0d8f3a/Screenshot%202023-09-23%20105110.png)
+
+![Sub_category page of the Dashboard](https://github.com/rahulbytes/SQL-Portfolio-Project/blob/a32bbf65de5957468a667bd794b688fa4c0d8f3a/Screenshot%202023-09-23%20105128.png)
+
+
 ## Getting Started
 
-To explore this SQL Sales Data Analysis Project, follow these steps:
+To explore this Sales Data Analysis Project, follow these steps:
 1. Clone the repository.
 2. Set up your SQL environment (e.g., MySQL, PostgreSQL).
 3. Import the provided sales dataset.
