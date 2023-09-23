@@ -34,7 +34,7 @@ SQL queries are employed to extract and analyze data. Key elements of the SQL an
 
 ## Power BI Dashboard
 
-A Power BI dashboard titled "Sales Insights Dashboard" visualizes key findings from the SQL analysis. The dashboard includes:
+A Power BI dashboard titled "Sales Dashboard" visualizes key findings from the SQL analysis. The dashboard includes:
 - Interactive data visualizations
 - Drill-through capabilities
 - Advanced filtering for dynamic exploration
