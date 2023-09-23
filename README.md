@@ -6,7 +6,6 @@ This project focuses on the analysis of sales data using SQL and creation of an 
 - [Introduction](#introduction)
 - [Data Analysis](#data-analysis)
 - [SQL Queries](#sql-queries)
-- [Power BI Dashboard ScreenShot](#Power-BI-Dashboard-ScreenShot)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,15 +30,6 @@ SQL queries are the backbone of this analysis. We use SQL to extract, transform,
 - Joins and subqueries
 - Common Table Expressions (CTE)
 - Calculations and functions
-
-## Power BI Dashboard ScreenShot
-
-<img width="588" alt="Screenshot 2023-09-23_105110" src="https://github.com/rahulbytes/SQL-Portfolio-Project/blob/4b0c39024ecc278d8e58ab8714d57381b31925e6/Screenshot%202023-09-23%20105110.png">
-
-<img width="588" alt="Screenshot 2023-09-23_105128" src="https://github.com/rahulbytes/SQL-Portfolio-Project/blob/4b0c39024ecc278d8e58ab8714d57381b31925e6/Screenshot%202023-09-23%20105128.png">
-
-
-
 
 
 ## Getting Started
