@@ -59,5 +59,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
-![Category Page](https://imgur.com/a/V6EWYVy)
-![Sub-Category Page](https://imgur.com/a/hvSNqEI)
+
+<img width="449" alt="Screenshot 2023-09-23_105110" src="https://github.com/rahulbytes/SQL-Portfolio-Project/assets/142666454/ae28bce8-ff72-47af-9fc5-bb58cc5a5155">
+
+
+<img width="448" alt="Screenshot 2023-09-23_105128" src="https://github.com/rahulbytes/SQL-Portfolio-Project/assets/142666454/51dfa771-5ba5-4936-ab6a-403fff902af6">
