@@ -34,10 +34,9 @@ SQL queries are the backbone of this analysis. We use SQL to extract, transform,
 
 ## Power BI Dashboard ScreenShot
 
-![Category page of the Dashboard](https://github.com/rahulbytes/SQL-Portfolio-Project/blob/a32bbf65de5957468a667bd794b688fa4c0d8f3a/Screenshot%202023-09-23%20105110.png)
+![Category page of the Dashboard](Screenshot 2023-09-23 105110.png)
 
-![Sub_category page of the Dashboard](https://github.com/rahulbytes/SQL-Portfolio-Project/blob/a32bbf65de5957468a667bd794b688fa4c0d8f3a/Screenshot%202023-09-23%20105128.png)
-
+![Sub_category page of the Dashboard](Screenshot 2023-09-23 105128.png)
 
 ## Getting Started
 
